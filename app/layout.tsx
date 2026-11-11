@@ -12,7 +12,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Samandar ❤ Mo‘mina — To‘yga taklifnoma",
   description:
-    "18-noyabr, 18:00 — Shofirkon tumani, “Malika” to‘yxonasi. Sizni kutib qolamiz!",
+    "18-noyabr, 18:00 — Buxoro shahri, “Sherbudin” to‘yxonasi. Sizni kutib qolamiz!",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

@@ -6,8 +6,8 @@ import MusicPlayer from "./components/MusicPlayer";
 const details = [
   { label: "Sana", value: "18-noyabr" },
   { label: "Vaqt", value: "18:00" },
-  { label: "Manzil", value: "Shofirkon tumani" },
-  { label: "To‘yxona", value: "“Malika” to‘yxonasi" },
+  { label: "Manzil", value: "Buxoro shahri" },
+  { label: "To‘yxona", value: "“Sherbudin” to‘yxonasi" },
 ];
 
 const PETALS = Array.from({ length: 14 }, (_, i) => i);
